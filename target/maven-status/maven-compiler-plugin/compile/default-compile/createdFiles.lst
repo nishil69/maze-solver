@@ -1,6 +1,0 @@
-com\example\Main.class
-com\example\model\Coordinate.class
-com\example\solver\Solver.class
-com\example\model\Maze.class
-com\example\exception\MazeFileException.class
-com\example\solver\DFSSolver.class
